@@ -53,6 +53,15 @@ Covering clothing is also a good way to hide your emergency contact info drawn o
 
 Your want to prevent yourself from being tagged or mentioned in photos or posts by other people who are there or automatically by a company analyzing photos. This requires you to be proactive with your social media accounts which we will discuss below.
 
+## Social Media
+
+Social media sites collect a trove of personal information that can be used against you even if you never post about a protest. In most cases, you can protect yourself by making your account private (aka friends/me only) and obscuring information that remains public like profile photos.
+
+!!! danger "Beware Friend Requests"
+    Police and law enforcement use [fake accounts to bypass these friends-only restrictions](https://www.theguardian.com/technology/2019/apr/22/facebook-law-enforcement-fake-profiles-ice). Be wary of friend requests and remove friends/followers with whom you are not personally familiar.
+
+    Be wary of people sending you friend requests at protests as well. Plain-clothed police officers can masquerade as protesters to gather information.
+
 ## Facebook
 
 This is the biggest target because most people have been on Facebook the longest. It's very easy to get a full snapshot just from Facebook data including:

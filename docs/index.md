@@ -44,6 +44,7 @@ You will inevitably be in a photo or video posted somewhere on the internet. You
 
 - Wear a face covering
 - Wear unmarked clothing. No logos. Preferably all black or white
+- Ripped clothing can be identifiable
 - Cover up any physically-identifying features like tattoos or hairstyles
 
 Covering clothing is also a good way to hide your emergency contact info drawn on your body. Nothing will out you faster than a clearly visible phone number even if it's not your own.
@@ -72,7 +73,7 @@ All links below send you to the Facebook help center, so the instructions should
 [Parts of your profile](https://www.facebook.com/help/203805466323736) may always be searchable. It's important to remove or obscure the following information:
 
 - [Change your profile photo](https://www.facebook.com/help/163248423739693) to something unidentifiable
-- [Change your cover photo]()
+- [Change your cover photo](https://www.facebook.com/help/220070894714080)
 - [Untag yourself from all posts and photos](https://www.facebook.com/help/140906109319589) relevant to the protests
 - [Remove these from your profile's About section](https://www.facebook.com/help/353111348061173):
     - Work and Education
@@ -132,7 +133,64 @@ All links below send you to the Facebook help center, so the instructions should
 
 ## Twitter
 
+Twitter itself gives you less centralized control over your tweet history, so this will likely be more tedious depending on how active you've been on the platform. As such, this list is more targeted at [deleting tweets](https://help.twitter.com/en/using-twitter/delete-tweets) that could tie you to the protest directly rather than hiding your entire history.
 
+That said, you can use third-party tools like [Tweet Deleter](https://tweetdeleter.com) to make this process easier and even automated. For example, you can search all tweets with photos and selectively delete the ones with your face in them.
+
+At a minium:
+
+- [Remove or replace the following on your profile](https://www.facebook.com/help/220070894714080):
+    - Profile image
+    - Cover photo
+    - Name
+    - Location
+- [Make your profile private](https://help.twitter.com/en/safety-and-security/how-to-make-twitter-private-and-public)
+
+If you don't want to make your profile private:
+
+- [Turn off location tagging in your tweets](https://help.twitter.com/en/using-twitter/tweet-location)
+- Delete any pictures with your face
+- Remove any retweeted posts mentioning the riot or protest
+- Delete any tweets implying you’d be there
+- Search your @username and location to make sure there’s no tweets mentioning where you are
 
 ## Instagram
 
+Instagram gives you some [centralized control over your content](https://help.instagram.com/116024195217477), which is great because this is also the most likely place you've posted images of yourself. Even if you [set your profile to private](https://help.instagram.com/448523408565555), there are some things you should do.
+
+!!! danger "Do not post stories!"
+    Stories don't just disappear. People can take screenshots and recordings leaving you with no way to control this content. While this can happen to any post, people are more likely to do this **because** of the ephemeral nature of stories.
+
+### Profile
+
+Like with Facebook, some information may always be public like your profile name. Whether or not you make your profile private, you should change or remove this information from your profile:
+
+- [Profile photo](https://help.instagram.com/557544397610546)
+- [Name and username](https://help.instagram.com/583107688369069)
+- Phone number
+- Bio
+- Website
+
+### Settings -> Privacy
+
+- [Account Privacy](https://help.instagram.com/448523408565555) - On
+- [Activity Status](https://help.instagram.com/1164377657035425) - Off
+- [Mentions](https://help.instagram.com/345505572238391) - No One
+- Story -> Sharing - Turn off everything
+- Tags -> [Allow Tags From](https://help.instagram.com/345505572238391) - No One
+- Tags -> [Manually Approve Tags](https://help.instagram.com/496738090375985) - On
+
+### Settings -> Security
+
+- [Apps and Websites](https://help.instagram.com/1144624522593085) - Remove all apps under Active and Expired
+- [Clear Search History](https://help.instagram.com/354860134605952) - Clear All
+
+### Other
+
+- Settings -> Account -> Linked Accounts -> [Unlink everything](https://help.instagram.com/536741816349927)
+
+## Contribute
+
+This site began with information from [this Twitter thread](https://mobile.twitter.com/senerbtac/status/1266552457829781504) and used with permission.
+
+We are constantly looking to add and update the information presented here. You can contribute by clicking the link in the very top right and submitting pull requests and issues.
